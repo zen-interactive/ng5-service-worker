@@ -12,10 +12,10 @@ Utiliser ng new nomprojet --service-worker
 
 ## Vérifier le projet build
 
-Se position sur le répertoire ## dist
+Se position sur le répertoire "dist"
 
-Lancer le serveur ## server-http
+Lancer le serveur "server-http"
 
 ## Vérifier le fonctionnement du servive worker dans Google Chrome
 
-Vérifier l'enregistrement des caches dans ## Cache Storage
+Vérifier l'enregistrement des caches dans "Cache Storage"
